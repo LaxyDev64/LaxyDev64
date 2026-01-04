@@ -1,7 +1,7 @@
 - Hi, I’m @LaxyDev64
 - i have 18 years
 - i love sonic game
-- im programer novat
+- im intermediate beginner programer
 - I’m currently learning:java,lua,pyton,c++,c#
 
 <!---
