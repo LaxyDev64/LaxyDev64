@@ -35,6 +35,7 @@
 |---------|-------------|-------|
 | [web-page](https://github.com/LaxyDev64/web-page) | Clean, accessible personal web page | HTML · CSS · JS |
 | [Copmany-web-page](https://github.com/LaxyDev64/Copmany-web-page) | Company-style web page template | HTML · CSS · JS |
+|                                                                    | operating system | C
 
 ---
 
