@@ -1,4 +1,4 @@
-# Hey, I'm LaxyDev64 👋
+# Hey, I'm LaxyDev64 
 
 > 18-year-old developer on a mission to build cool things and level up every day.
 
@@ -13,7 +13,7 @@
 
 ---
 
-##  Languages & Technologies
+## Languages & Technologies
 
 ### Currently Learning
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,7 +29,7 @@
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -38,7 +38,7 @@
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LaxyDev64&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -47,7 +47,7 @@
 
 ---
 
-##  2025 Goals
+## 2025 Goals
 
 - [ ] Complete a full-stack web project
 - [ ] Build my first game
@@ -56,9 +56,10 @@
 
 ---
 
-##  Let's Connect
+## Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-LaxyDev64-181717?style=for-the-badge&logo=github)](https://github.com/LaxyDev64)
+[![Discord](https://img.shields.io/badge/Discord-Join%20my%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6UeZGESd)
 
 ---
 
