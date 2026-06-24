@@ -49,7 +49,7 @@
 
 ---
 
-## 2025 Goals
+## 2026/27 Goals
 
 - [ ] Complete a full-stack web project
 - [ ] Build my first game
