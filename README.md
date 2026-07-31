@@ -62,6 +62,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-LaxyDev64-181717?style=for-the-badge&logo=github)](https://github.com/LaxyDev64)
 [![Discord](https://img.shields.io/badge/Discord-Join%20my%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6UeZGESd)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bd153d2d-47c6-464a-ad1c-008a237440a3/deploy-status)](https://app.netlify.com/projects/lacasamedina/deploys)
 
 ---
 
