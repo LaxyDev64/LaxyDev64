@@ -40,7 +40,6 @@
 |---------|-------------|-------|
 | [LaxOS](https://github.com/LaxyDev64/LaxOS) | Custom emulation frontend aimed at ARM and the Wii U GamePad form factor | C |
 | **LaxPortal** | Desktop game launcher with its own Node/Express + PostgreSQL backend | Qt6 · C++ · Node · PostgreSQL |
-| **LaxScript & Button Engine** | Custom scripting language (`.lx`) and a game engine written in C | C |
 | **Luxor Engine** | My own 3D graphics engine, built from scratch to learn how engines really work | C++ · OpenGL |
 | **La Casa Medina** | First-person mystery/horror game — cassettes, VHS tapes, shaders and a lot of atmosphere (moving to Luxor) | Godot 4 → Luxor |
 | [UnleashedRecomp-WII-U-Cafe](https://github.com/LaxyDev64/UnleashedRecomp-WII-U-Cafe) | Unofficial Wii U port of Sonic Unleashed Recompiled (GamePad UI, GX2 backend, asset pipeline) | C++ · Wii U homebrew |
@@ -64,8 +63,6 @@
 
 - [ ] Release La Casa Medina
 - [ ] Get Luxor Engine running a full game
-- [ ] Get Rayman Legends online on Wii U
-- [ ] Finish a PS Vita port
 - [ ] Contribute to an open source project
 
 ---
