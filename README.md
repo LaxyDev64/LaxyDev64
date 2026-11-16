@@ -1,31 +1,36 @@
 # Hey, I'm LaxyDev64 
 
-> 18-year-old developer on a mission to build cool things and level up every day.
+> 19-year-old indie developer building games, engines and tools — one project at a time.
 
 ---
 
 ## About Me
 
--  Huge Sonic fan — speed runs in games *and* in code
--  Intermediate-beginner programmer, always learning
--  Currently expanding my skills across multiple languages
--  Building projects to grow as a developer
+- Huge Sonic fan — speed runs in games *and* in code
+- Indie dev under the name **LaxyDev64/Laxstudio**, self-taught and always leveling up
+- I like going low-level: custom engines, scripting languages and console homebrew
+- Juggling a lot of projects at once across game dev, tooling and systems programming
 
 ---
 
 ## Languages & Technologies
 
-### Currently Learning
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Daily Drivers
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Working With
+### Engines, Frameworks & Tools
+![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Also Working With
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -33,12 +38,18 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [web-page](https://github.com/LaxyDev64/web-page) | Clean, accessible personal web page | HTML · CSS · JS |
-| [Copmany-web-page](https://github.com/LaxyDev64/Copmany-web-page) | Company-style web page template | HTML · CSS · JS |
-| [LaxOS](https://github.com/LaxyDev64/LaxOS) | operating system | C |
+| [LaxOS](https://github.com/LaxyDev64/LaxOS) | Custom emulation frontend aimed at ARM and the Wii U GamePad form factor | C |
+| **LaxPortal** | Desktop game launcher with its own Node/Express + PostgreSQL backend | Qt6 · C++ · Node · PostgreSQL |
+| **LaxScript & Button Engine** | Custom scripting language (`.lx`) and a game engine written in C | C |
+| **Luxor Engine** | My own 3D graphics engine, built from scratch to learn how engines really work | C++ · OpenGL |
+| **La Casa Medina** | First-person mystery/horror game — cassettes, VHS tapes, shaders and a lot of atmosphere (moving to Luxor) | Godot 4 → Luxor |
+| [UnleashedRecomp-WII-U-Cafe](https://github.com/LaxyDev64/UnleashedRecomp-WII-U-Cafe) | Unofficial Wii U port of Sonic Unleashed Recompiled (GamePad UI, GX2 backend, asset pipeline) | C++ · Wii U homebrew |
+| [Cuphead-CDV](https://github.com/LaxyDev64/Cuphead-CDV) | Cuphead fangame built on the Booty5/Cordova engine | JavaScript |
+| **Pac-Man Dash** | Pac-Man endless runner recreation | Booty5 · Cordova |
+| [nextendo-nex](https://github.com/LaxyDev64/nextendo-nex) | Fork of the NEX/PRUDP core library, adding support for Rayman Legends on Wii U | Go |
+| **PS Vita ports** | Native ports of Pac-Man World 3 and Sonic Adventure (Dreamcast) using VitaSDK | C |
 
 ---
-
 
 ## GitHub Stats
 
@@ -51,10 +62,11 @@
 
 ## 2026/27 Goals
 
-- [ ] Complete a full-stack web project
-- [ ] Build my first game
+- [ ] Release La Casa Medina
+- [ ] Get Luxor Engine running a full game
+- [ ] Get Rayman Legends online on Wii U
+- [ ] Finish a PS Vita port
 - [ ] Contribute to an open source project
-- [ ] Get comfortable with Python & Java
 
 ---
 
